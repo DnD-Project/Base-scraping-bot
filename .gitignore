@@ -1,0 +1,9 @@
+node_modules
+build
+dist
+out
+.idea
+
+*.env
+.DS_Store
+package-lock.json
